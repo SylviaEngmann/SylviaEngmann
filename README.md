@@ -5,7 +5,7 @@
 </p>
 
 - I am a Software Engineer.
-- I'm currently working with Scala, NodeJS, React and PostgreSQL. 
-- I'm currently learning JavaScript and Java. 
+- I'm currently working with Vue, NodeJS, React and PostgreSQL. 
+- I'm currently learning JavaScript. 
 
 
