@@ -6,6 +6,6 @@
 
 - I am a Software Engineer.
 - I'm currently working with Vue, NodeJS, React and PostgreSQL. 
-- I'm currently learning JavaScript. 
+- I'm currently learning JavaScript and TypeScript. 
 
 
